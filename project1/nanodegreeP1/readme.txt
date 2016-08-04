@@ -1,5 +1,7 @@
 Udacity NanoDegree
-Project: Movie Trailer Website
+
+Project: Movie Trailer Website - Generates an HTML page displaying a list
+of movies by title and poster art. Clicking on a movie plays its trailer.
 
 ------------------------------
 
@@ -17,7 +19,7 @@ Files:
 ------------------------------
 
 How to:
-	- Run main.py
+	- python main.py
 
 ------------------------------
 

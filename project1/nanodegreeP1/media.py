@@ -3,6 +3,7 @@ import webbrowser
 
 # Generates movie object with required assets
 class Movie():
+    """Takes movie details as input - returns an object with those details"""
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title
